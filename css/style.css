@@ -10,12 +10,10 @@ body {
 
 #main-header {
     width: 100%;
-    height: 100px;
 }
 
 .container-white {
     width: 80%;
-    height: 800px;
     margin: 0px auto;
     background-color: white;
 }
@@ -57,10 +55,6 @@ body {
 
 .float-left {
     float: left;
-}
-
-.art {
-    height: 400px;
 }
 
 .article-extremes {
@@ -135,7 +129,6 @@ div.description {
   background-image: 
         linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
         url(../img/img-1.jpg);
-  background-position: center;
 }
 
 .title-art {
@@ -146,14 +139,12 @@ div.description {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
         url(../img/banner-2.jpg);
-    background-position: center;
 }
 
 .third-img-art {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
         url(../img/img-3.jpg);
-    background-position: center;
 }
 
 .content {
